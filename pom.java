@@ -14,7 +14,8 @@
   <distributionManagement>
     <repository>
       <id>hanna667</id>
-      <url>https://maven.pkg.github.com/hanna667/CICD-project-using-git-hub-action</url>
+      <url>https://maven.pkg.github.com/hanna667/CICD-project-using-git-hub-action
+</url>
     </repository>
   </distributionManagement>
 </project>
